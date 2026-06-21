@@ -46,6 +46,6 @@ KPI analysis and performance reporting from a 28-quarter automotive business sim
 ## 📬 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-bishalbora-blue?style=flat&logo=linkedin)](https://linkedin.com/in/bishalbora)
-[![Email](https://img.shields.io/badge/Email-bora.bishal%40gmail.com-red?style=flat&logo=gmail)](mailto:bora.bishal@gmail.com)
+[![Email](https://img.shields.io/badge/Email-bora.vishal%40gmail.com-red?style=flat&logo=gmail)](mailto:bora.bishal@gmail.com)
 
 > 📍 Based in Coventry, UK — open to analyst roles across the UK
