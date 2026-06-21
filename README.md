@@ -1,4 +1,4 @@
-# Hi, I'm Bishal
+# Hi, I'm Bishal Bora
 
 **Data & Business Analyst** | MSc Business Analytics, University of Warwick | Ex-HCLTech
 
