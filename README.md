@@ -1,4 +1,4 @@
-# Hi, I'm Bishal 👋
+# Hi, I'm Bishal
 
 **Data & Business Analyst** | MSc Business Analytics, University of Warwick | Ex-HCLTech
 
@@ -6,7 +6,7 @@ I turn messy data into decisions that actually matter. I have 3+ years of enterp
 
 ---
 
-## 🛠️ Tools & Skills
+##  Tools & Skills
 
 | Category | Tools |
 |---|---|
@@ -18,23 +18,23 @@ I turn messy data into decisions that actually matter. I have 3+ years of enterp
 
 ---
 
-## 📁 Featured Projects
+##  Featured Projects
 
-### 🔬 [Loan Approval A/B Test Analysis](https://github.com/bishalbora1998/loan-approval-ab-test)
+###  [Loan Approval A/B Test Analysis](https://github.com/bishalbora1998/loan-approval-ab-test)
 Compared legacy vs redesigned loan-review models using R and statistical inference. Identified a **42% increase in decision accuracy** and **18% improvement in bad loan detection**.
 `R` `A/B Testing` `Statistical Inference` `Business Reporting`
 
-### 📊 [UK Road Safety Dashboard](https://github.com/bishalbora1998/uk-road-safety-dashboard)
+###  [UK Road Safety Dashboard](https://github.com/bishalbora1998/uk-road-safety-dashboard)
 Exploratory data analysis and Power BI dashboard on UK road accident data (100K+ records). Uncovered casualty patterns by time, region, and road type to support safety planning decisions.
 `Python` `pandas` `Power BI` `EDA` `Data Cleaning`
 
-### 🏭 [Business Simulation – Operations Analytics](https://github.com/bishalbora1998/business-simulation-analytics)
+###  [Business Simulation – Operations Analytics](https://github.com/bishalbora1998/business-simulation-analytics)
 KPI analysis and performance reporting from a 28-quarter automotive business simulation at University of Warwick. Restored profitability within 3 quarters through data-driven commercial interventions.
 `Excel` `KPI Analysis` `Business Analytics` `Reporting`
 
 ---
 
-## 📜 Certifications
+##  Certifications
 
 - Databricks Fundamentals
 - SQL Analytics on Databricks
@@ -43,9 +43,9 @@ KPI analysis and performance reporting from a 28-quarter automotive business sim
 
 ---
 
-## 📬 Let's Connect
+##  Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-bishalbora-blue?style=flat&logo=linkedin)](https://linkedin.com/in/bishalbora)
 [![Email](https://img.shields.io/badge/Email-bora.vishal.15%40gmail.com-red?style=flat&logo=gmail)](mailto:bora.bishal@gmail.com)
 
-> 📍 Based in Coventry, UK — open to analyst roles across the UK
+>  Based in Coventry, UK — open to analyst roles across the UK
