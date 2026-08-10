@@ -70,7 +70,7 @@ Exploratory data analysis on 100,000+ UK road accident records (STATS19 dataset)
 
 ---
 
-## 📬Let's Connect
+## Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-bishalbora-blue?style=flat&logo=linkedin)](https://linkedin.com/in/bishalbora)
 [![Email](https://img.shields.io/badge/Email-bora.vishal.15%40gmail.com-red?style=flat&logo=gmail)](mailto:bora.vishal.15@gmail.com)
